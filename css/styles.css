@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background: #6a5acd;
+    background: #2b199c;
     color: #ffffff;
     padding: 20px;
     text-align: center;
@@ -18,7 +18,7 @@ main {
 }
 
 h1, h2 {
-    color: #ffcc00;
+    color: #066136;
 }
 
 ul {
@@ -33,7 +33,7 @@ li {
 .button {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #ff5722;
+    background-color: #226fff;
     color: #ffffff;
     text-decoration: none;
     border-radius: 5px;
@@ -41,7 +41,7 @@ li {
 }
 
 .button:hover {
-    background-color: #e64a19;
+    background-color: #298158;
 }
 
 footer {
