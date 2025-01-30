@@ -2,13 +2,13 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #1e1e2f;
+    background-color: #ffffff;
     color: #ffffff;
 }
 
 header {
-    background: #2b199c;
-    color: #ffffff;
+    background: #ffffff;
+    color: #000000;
     padding: 20px;
     text-align: center;
 }
@@ -18,7 +18,7 @@ main {
 }
 
 h1, h2 {
-    color: #066136;
+    color: #000000;
 }
 
 ul {
@@ -33,20 +33,20 @@ li {
 .button {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #226fff;
-    color: #ffffff;
+    background-color: #ffffff;
+    color: #000000;
     text-decoration: none;
     border-radius: 5px;
     margin-top: 10px;
 }
 
 .button:hover {
-    background-color: #298158;
+    background-color: #ffffff;
 }
 
 footer {
-    background: #333333;
-    color: #cccccc;
+    background: #ffffff;
+    color: #000000;
     text-align: center;
     padding: 10px;
     position: fixed;
