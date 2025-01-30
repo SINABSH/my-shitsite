@@ -2,13 +2,13 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #ffffff;
+    background-color: #eee6e6;
     color: #ebe1e1;
 }
 
 header {
     background: #f5f2f2;
-    color: #000000;
+    color: #161616;
     padding: 20px;
     text-align: center;
 }
@@ -33,20 +33,20 @@ li {
 .button {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #ffffff;
-    color: #000000;
+    background-color: #8a8383;
+    color: #070606;
     text-decoration: none;
     border-radius: 5px;
     margin-top: 10px;
 }
 
 .button:hover {
-    background-color: #ffffff;
+    background-color: #aca0a0;
 }
 
 footer {
-    background: #ffffff;
-    color: #000000;
+    background: #f0e9e9;
+    color: #110f0f;
     text-align: center;
     padding: 10px;
     position: fixed;
